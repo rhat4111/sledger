@@ -1,0 +1,27 @@
+{
+  "translations": {
+    "layout": {
+      "login": "Login",
+      "signup": "Signup",
+      "home": "Home",
+      "topbar": {
+        "exchange": "Exchange",
+        "market": "Market",
+        "nft": "NFT",
+        "downloads": "Downloads"
+      },
+      "sidebar": {
+        "receive": "Receive",
+        "send": "Send",
+        "buyLicenses": "Buy Licenses",
+        "trade": "Trade",
+        "transactions": "Transactions",
+        "accessHistory": "Access History",
+        "contacts": "Contacts",
+        "createToken": "Create Token",
+        "userManage": "User Manage",
+        "logout": "Logout"
+      }
+    }
+  }
+}
